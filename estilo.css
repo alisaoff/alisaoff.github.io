@@ -1,0 +1,75 @@
+body {
+    background-color: #e9ecef;
+    
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    margin: 0%;
+  
+}
+
+
+
+
+header {
+    float: top;
+  
+  overflow: hidden;
+  text-decoration: none;
+  font-size: 18px; 
+  line-height: 25px;
+  border-radius: 4px;
+  
+  margin: 0%;
+}
+
+
+.wrapper {
+    margin-left: 5%;
+    float: left;
+    
+}
+
+#mudaCor:hover {
+    cursor: pointer;
+}
+
+#conteudo {
+    
+    width: 960px;
+    margin: 1% auto 0 auto;
+    background-color: #f1f1f1;
+    
+    
+}
+
+#sections{
+   
+    padding: 2%;
+}
+
+#sections p{
+    text-indent: 2em;
+}
+
+.alien_com_mouse{
+    text-align: center;
+    width: 250px;
+    height: 250px;
+    transition: 0.3s;
+}
+
+.alien_sem_mouse{
+    text-align: center;
+    width: 200;
+    height: 200px;
+    transition: 0.3s;
+}
+
+.alien{
+    text-align: center;
+}
+.info{
+    text-align: justify;;
+    
+}
+
