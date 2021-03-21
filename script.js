@@ -43,7 +43,7 @@ elemento.onclick = function () {
         document.body.style.backgroundColor= "#e9ecef"
         ativado = 0
         document.body.style.color= "black"
-        document.getElementById("conteudo").style.backgroundColor= "green"
+        document.getElementById("conteudo").style.backgroundColor= "#f1f1f1;"
        
     }
 }
